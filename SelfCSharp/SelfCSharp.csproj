@@ -9,7 +9,13 @@
     <!-- <StartupObject>SelfCSharp.Program</StartupObject> -->
     <!-- Chap01の学習 -->
     <!-- リスト1.2 Person.cs -->
-    <StartupObject>SelfCSharp.Chap01.PersonClient</StartupObject>
+    <!-- <StartupObject>SelfCSharp.Chap01.PersonClient</StartupObject> -->
+
+    <!-- Chap02の学習 -->
+    <!-- リスト2.1 Const.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap02.Const</StartupObject> -->
+    <!-- リスト2.2 StringVariable-->
+    <StartupObject>SelfCSharp.Chap02.StringVariable</StartupObject>
   </PropertyGroup>
 
 </Project>
