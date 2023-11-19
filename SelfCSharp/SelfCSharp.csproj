@@ -15,7 +15,15 @@
     <!-- リスト2.1 Const.cs -->
     <!-- <StartupObject>SelfCSharp.Chap02.Const</StartupObject> -->
     <!-- リスト2.2 StringVariable-->
-    <StartupObject>SelfCSharp.Chap02.StringVariable</StartupObject>
+    <!-- <StartupObject>SelfCSharp.Chap02.StringVariable</StartupObject> -->
+    <!-- リスト2.3 TransBad.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap02.TransBad</StartupObject> -->
+    <!-- リスト2.4 CastBad.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap02.CastBad</StartupObject> -->
+    <!-- リスト2.5 Parse.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap02.Parse</StartupObject> -->
+    <!-- リスト2.6 ToString.cs -->
+    <StartupObject>SelfCSharp.Chap02.ToString</StartupObject>
   </PropertyGroup>
 
 </Project>
