@@ -23,7 +23,11 @@
     <!-- リスト2.5 Parse.cs -->
     <!-- <StartupObject>SelfCSharp.Chap02.Parse</StartupObject> -->
     <!-- リスト2.6 ToString.cs -->
-    <StartupObject>SelfCSharp.Chap02.ToString</StartupObject>
+    <!-- <StartupObject>SelfCSharp.Chap02.ToString</StartupObject> -->
+    <!-- Practice.PCast -->
+    <!-- <StartupObject>SelfCSharp.Chap02.Practice.PCast</StartupObject> -->
+    <!-- リスト2.7 FieldNew.cs -->
+    <StartupObject>SelfCSharp.Chap02.FieldNew</StartupObject>
   </PropertyGroup>
 
 </Project>
