@@ -27,7 +27,11 @@
     <!-- Practice.PCast -->
     <!-- <StartupObject>SelfCSharp.Chap02.Practice.PCast</StartupObject> -->
     <!-- リスト2.7 FieldNew.cs -->
-    <StartupObject>SelfCSharp.Chap02.FieldNew</StartupObject>
+    <!-- <StartupObject>SelfCSharp.Chap02.FieldNew</StartupObject> -->
+    <!-- リスト2.8 FieldNew.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap02.NullableCalc</StartupObject> -->
+    <!-- リスト2.9 NullAllow.cs -->
+    <StartupObject>SelfCSharp.Chap02.NullAllow</StartupObject>
   </PropertyGroup>
 
 </Project>
