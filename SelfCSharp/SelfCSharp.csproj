@@ -31,7 +31,23 @@
     <!-- リスト2.8 FieldNew.cs -->
     <!-- <StartupObject>SelfCSharp.Chap02.NullableCalc</StartupObject> -->
     <!-- リスト2.9 NullAllow.cs -->
-    <StartupObject>SelfCSharp.Chap02.NullAllow</StartupObject>
+    <!-- <StartupObject>SelfCSharp.Chap02.NullAllow</StartupObject> -->
+    <!-- リスト2.11 NullForgive.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap02.NullForgive</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap02.ArrayBasic</StartupObject> -->
+    <!-- リスト2.12 ArrayRange.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap02.ArrayRange</StartupObject> -->
+    <!-- リスト2.13 ArrayMulti.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap02.ArrayMulti</StartupObject> -->
+    <!-- リスト2.13 ArrayJag.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap02.ArrayJag</StartupObject> -->
+    <!-- リスト2.14 2.15 ArrayLength.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap02.ArrayLength</StartupObject> -->
+    <!-- リスト2 Practice1.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap02.Practice.Practice1</StartupObject> -->
+    <!-- リスト2 Practice3.cs -->
+    <StartupObject>SelfCSharp.Chap02.Practice.Practice3</StartupObject>
+
   </PropertyGroup>
 
 </Project>
