@@ -46,7 +46,22 @@
     <!-- リスト2 Practice1.cs -->
     <!-- <StartupObject>SelfCSharp.Chap02.Practice.Practice1</StartupObject> -->
     <!-- リスト2 Practice3.cs -->
-    <StartupObject>SelfCSharp.Chap02.Practice.Practice3</StartupObject>
+    <!-- <StartupObject>SelfCSharp.Chap02.Practice.Practice3</StartupObject> -->
+
+    <!-- Chap03の学習 -->
+    <!-- リスト3.1 CalcNoNumber.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap03.CalcNoNumber</StartupObject> -->
+    <!-- リスト3.2 ConcatString.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap03.ConcatString</StartupObject> -->
+    <!-- リスト3.3 ConcatBuilder.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap03.ConcatBuilder</StartupObject> -->
+    <!-- リスト3.4 Increment.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap03.Increment</StartupObject> -->
+    <!-- リスト3.5 CalcDivZero.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap03.CalcDivZero</StartupObject> -->
+    <!-- リスト3.6 CalcDecimal.cs -->
+    <StartupObject>SelfCSharp.Chap03.CalcDecimal</StartupObject>
+
 
   </PropertyGroup>
 
