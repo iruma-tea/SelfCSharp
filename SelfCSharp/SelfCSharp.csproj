@@ -90,8 +90,15 @@
     <!-- リスト3. Practice2.cs -->
     <!-- <StartupObject>SelfCSharp.Chap03.Practice.Practice2</StartupObject> -->
     <!-- リスト3. Practice3.cs -->
-    <StartupObject>SelfCSharp.Chap03.Practice.Practice3</StartupObject>
+    <!-- <StartupObject>SelfCSharp.Chap03.Practice.Practice3</StartupObject> -->
 
+    <!-- Chap04の学習 -->
+    <!-- リスト4.1 IfBasic.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap04.IfBasic</StartupObject> -->
+    <!-- リスト4.2 IfBasic2.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap04.IfBasic2</StartupObject> -->
+    <!-- リスト4.3 IfElse.cs -->
+    <StartupObject>SelfCSharp.Chap04.IfElse</StartupObject>
 
   </PropertyGroup>
 
