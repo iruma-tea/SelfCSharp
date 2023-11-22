@@ -60,7 +60,23 @@
     <!-- リスト3.5 CalcDivZero.cs -->
     <!-- <StartupObject>SelfCSharp.Chap03.CalcDivZero</StartupObject> -->
     <!-- リスト3.6 CalcDecimal.cs -->
-    <StartupObject>SelfCSharp.Chap03.CalcDecimal</StartupObject>
+    <!-- <StartupObject>SelfCSharp.Chap03.CalcDecimal</StartupObject> -->
+    <!-- リスト3.7 Substitution.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap03.Substitution</StartupObject> -->
+    <!-- リスト3.8 CompareStringBuilder.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap03.CompareStringBuilder</StartupObject> -->
+    <!-- リスト3.9 CompareString.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap03.CompareString</StartupObject> -->
+    <!-- リスト3.10 CompareDouble.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap03.CompareDouble</StartupObject> -->
+    <!-- リスト3.11 CompareArray.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap03.CompareArray</StartupObject> -->
+    <!-- リスト3.12 Condition.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap03.Condition</StartupObject> -->
+    <!-- リスト3.13 ConditionNull.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap03.ConditionNull</StartupObject> -->
+    <!-- リスト3 PCondition.cs -->
+    <StartupObject>SelfCSharp.Chap03.Practice.PCondition</StartupObject>
 
 
   </PropertyGroup>
