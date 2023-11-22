@@ -76,7 +76,21 @@
     <!-- リスト3.13 ConditionNull.cs -->
     <!-- <StartupObject>SelfCSharp.Chap03.ConditionNull</StartupObject> -->
     <!-- リスト3 PCondition.cs -->
-    <StartupObject>SelfCSharp.Chap03.Practice.PCondition</StartupObject>
+    <!-- <StartupObject>SelfCSharp.Chap03.Practice.PCondition</StartupObject> -->
+    <!-- リスト3.14 Shortcut.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap03.Shortcut</StartupObject> -->
+    <!-- リスト3.15 BitShift.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap03.BitShift</StartupObject> -->
+    <!-- リスト3.16 SizeOf.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap03.SizeOf</StartupObject> -->
+    <!-- リスト3.17 NameOfBasic.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap03.NameOfBasic</StartupObject> -->
+    <!-- リスト3.18 NameOfNull.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap03.NameOfNull</StartupObject> -->
+    <!-- リスト3. Practice2.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap03.Practice.Practice2</StartupObject> -->
+    <!-- リスト3. Practice3.cs -->
+    <StartupObject>SelfCSharp.Chap03.Practice.Practice3</StartupObject>
 
 
   </PropertyGroup>
