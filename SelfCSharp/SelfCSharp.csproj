@@ -98,7 +98,33 @@
     <!-- リスト4.2 IfBasic2.cs -->
     <!-- <StartupObject>SelfCSharp.Chap04.IfBasic2</StartupObject> -->
     <!-- リスト4.3 IfElse.cs -->
-    <StartupObject>SelfCSharp.Chap04.IfElse</StartupObject>
+    <!-- <StartupObject>SelfCSharp.Chap04.IfElse</StartupObject> -->
+    <!-- リスト4.4 IfElse2.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap04.IfElse2</StartupObject> -->
+    <!-- リスト4.5 IfNest.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap04.IfNest</StartupObject> -->
+    <!-- リスト4.6 IfOmit.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap04.IfOmit</StartupObject> -->
+    <!-- リスト4.7 IfOmit2.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap04.IfOmit2</StartupObject> -->
+    <!-- リスト4.8 IfOmit3.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap04.IfOmit3</StartupObject> -->
+    <!-- リスト4.9 SwitchPre.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap04.SwitchPre</StartupObject> -->
+    <!-- リスト4.10 SwitchBasic.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap04.SwitchBasic</StartupObject> -->
+    <!-- リスト4.11 SwitchFall.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap04.SwitchFall</StartupObject> -->
+    <!-- リスト4.12 SwitchType.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap04.SwitchType</StartupObject> -->
+    <!-- リスト4.13 SwitchWhen.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap04.SwitchWhen</StartupObject> -->
+    <!-- リスト4.14 SwitchExp.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap04.SwitchExp</StartupObject> -->
+    <!-- リスト4.15 SwitchExpWhen.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap04.SwitchExpWhen</StartupObject> -->
+    <!-- リスト4 PIf.cs -->
+    <StartupObject>SelfCSharp.Chap04.Practice.PIf</StartupObject>
 
   </PropertyGroup>
 
