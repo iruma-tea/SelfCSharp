@@ -127,9 +127,9 @@
     <!-- <StartupObject>SelfCSharp.Chap04.Practice.PIf</StartupObject> -->
     <!-- リスト4.16 WhileBasic.cs -->
     <!-- <StartupObject>SelfCSharp.Chap04.WhileBasic</StartupObject> -->
-    <!-- リスト4.16 WhileDo.cs -->
+    <!-- リスト4.17 WhileDo.cs -->
     <!-- <StartupObject>SelfCSharp.Chap04.WhileDo</StartupObject> -->
-    <!-- リスト4.17 WhileOmit.cs -->
+    <!-- リスト4.18 WhileOmit.cs -->
     <StartupObject>SelfCSharp.Chap04.WhileOmit</StartupObject>
 
   </PropertyGroup>
