@@ -12,21 +12,5 @@
 			"editor.formatOnSave": true,
 			"editor.defaultFormatter": "ms-dotnettools.csharp"
 		}
-	},
-	"launch": {
-		"version": "0.2.0",
-		"configurations": [
-			{
-				"name": ".NET Core Launch (console)",
-				"type": "coreclr",
-				"request": "launch",
-				// "preLaunchTask": "build",
-				"program": "${workspaceFolder}/SelfCSharp/bin/Debug/net7.0/SelfCSharp.dll",
-				"args": ["太郎", "次郎", "三郎"],
-				"cwd": "${workspaceFolder}",
-				"console": "internalConsole",
-				"stopAtEntry": false
-			}
-		]
 	}
 }

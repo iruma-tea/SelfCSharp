@@ -148,7 +148,9 @@
     <!-- リスト4.25 Foreach.cs -->
     <!-- <StartupObject>SelfCSharp.Chap04.Foreach</StartupObject> -->
     <!-- リスト4.26 CommandArgs.cs -->
-    <StartupObject>SelfCSharp.Chap04.CommandArgs</StartupObject>
+    <!-- <StartupObject>SelfCSharp.Chap04.CommandArgs</StartupObject> -->
+    <!-- リスト4. PFor.cs -->
+    <StartupObject>SelfCSharp.Chap04.Practice.PFor</StartupObject>
 
   </PropertyGroup>
 
