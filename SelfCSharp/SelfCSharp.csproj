@@ -130,7 +130,25 @@
     <!-- リスト4.17 WhileDo.cs -->
     <!-- <StartupObject>SelfCSharp.Chap04.WhileDo</StartupObject> -->
     <!-- リスト4.18 WhileOmit.cs -->
-    <StartupObject>SelfCSharp.Chap04.WhileOmit</StartupObject>
+    <!-- <StartupObject>SelfCSharp.Chap04.WhileOmit</StartupObject> -->
+    <!-- リスト4.19 ForBasic.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap04.ForBasic</StartupObject> -->
+    <!-- リスト4.20 ForBad.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap04.ForBad</StartupObject> -->
+    <!-- リスト4.21 ForFloat.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap04.ForFloat</StartupObject> -->
+    <!-- リスト4.22 ForBlock.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap04.ForBlock</StartupObject> -->
+    <!-- リスト4.23 ForComma.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap04.ForComma</StartupObject> -->
+    <!-- リスト4.23 ForComma2.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap04.ForComma2</StartupObject> -->
+    <!-- リスト4.24 ForeachFor.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap04.ForeachFor</StartupObject> -->
+    <!-- リスト4.25 Foreach.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap04.Foreach</StartupObject> -->
+    <!-- リスト4.26 CommandArgs.cs -->
+    <StartupObject>SelfCSharp.Chap04.CommandArgs</StartupObject>
 
   </PropertyGroup>
 
