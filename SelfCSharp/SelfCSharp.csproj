@@ -141,16 +141,44 @@
     <!-- <StartupObject>SelfCSharp.Chap04.ForBlock</StartupObject> -->
     <!-- リスト4.23 ForComma.cs -->
     <!-- <StartupObject>SelfCSharp.Chap04.ForComma</StartupObject> -->
-    <!-- リスト4.23 ForComma2.cs -->
+    <!-- リスト4.24 ForComma2.cs -->
     <!-- <StartupObject>SelfCSharp.Chap04.ForComma2</StartupObject> -->
-    <!-- リスト4.24 ForeachFor.cs -->
+    <!-- リスト4.25 ForeachFor.cs -->
     <!-- <StartupObject>SelfCSharp.Chap04.ForeachFor</StartupObject> -->
-    <!-- リスト4.25 Foreach.cs -->
+    <!-- リスト4.26 Foreach.cs -->
     <!-- <StartupObject>SelfCSharp.Chap04.Foreach</StartupObject> -->
-    <!-- リスト4.26 CommandArgs.cs -->
+    <!-- リスト4.27 CommandArgs.cs -->
     <!-- <StartupObject>SelfCSharp.Chap04.CommandArgs</StartupObject> -->
     <!-- リスト4. PFor.cs -->
-    <StartupObject>SelfCSharp.Chap04.Practice.PFor</StartupObject>
+    <!-- <StartupObject>SelfCSharp.Chap04.Practice.PFor</StartupObject> -->
+    <!-- リスト4.28 Break.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap04.Break</StartupObject> -->
+    <!-- リスト4.29 Continue.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap04.Continue</StartupObject> -->
+    <!-- リスト4.30 BreakNest.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap04.BreakNest</StartupObject> -->
+    <!-- リスト4 Practice1.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap04.Practice.PContinue</StartupObject> -->
+    <!-- リスト4.31 Goto.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap04.Goto</StartupObject> -->
+    <!-- リスト4.32 GotoNest.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap04.GotoNest</StartupObject> -->
+    <!-- リスト4.33 GotoSwitch.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap04.GotoSwitch</StartupObject> -->
+    <!-- リスト4.34 PreIf.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap04.PreIf</StartupObject> -->
+    <!-- リスト4.35 PreRegion.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap04.PreRegion</StartupObject> -->
+    <!-- リスト4 Practice1.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap04.Practice.Practice1</StartupObject> -->
+    <!-- リスト4 Practice2.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap04.Practice.Practice2</StartupObject> -->
+    <!-- リスト4 Practice3.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap04.Practice.Practice3</StartupObject> -->
+    <!-- リスト4 Practice4.cs -->
+    <!-- <StartupObject>SelfCSharp.Chap04.Practice.Practice4</StartupObject> -->
+    <!-- リスト4 Practice5.cs -->
+    <StartupObject>SelfCSharp.Chap04.Practice.Practice5</StartupObject>
 
   </PropertyGroup>
 
