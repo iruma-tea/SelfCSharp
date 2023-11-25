@@ -178,7 +178,19 @@
     <!-- リスト4 Practice4.cs -->
     <!-- <StartupObject>SelfCSharp.Chap04.Practice.Practice4</StartupObject> -->
     <!-- リスト4 Practice5.cs -->
-    <StartupObject>SelfCSharp.Chap04.Practice.Practice5</StartupObject>
+    <!-- <StartupObject>SelfCSharp.Chap04.Practice.Practice5</StartupObject> -->
+
+    <!-- Chap05の学習 -->
+    <!--リスト5.1 StrLength.cs-->
+    <!-- <StartupObject>SelfCSharp.Chap05.StrLength</StartupObject> -->
+    <!--リスト5.2 StrInfoLength.cs-->
+    <!-- <StartupObject>SelfCSharp.Chap05.StrInfoLength</StartupObject> -->
+    <!--リスト5.3 StrCompare.cs-->
+    <!-- <StartupObject>SelfCSharp.Chap05.StrCompare</StartupObject> -->
+    <!--リスト5.4 StrGlobalCompare.cs-->
+    <!-- <StartupObject>SelfCSharp.Chap05.StrGlobalCompare</StartupObject> -->
+    <!--リスト5.5 5.6 StrEmpty.cs-->
+    <StartupObject>SelfCSharp.Chap05.StrEmpty</StartupObject>
 
   </PropertyGroup>
 
