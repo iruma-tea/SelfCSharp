@@ -190,7 +190,21 @@
     <!--リスト5.4 StrGlobalCompare.cs-->
     <!-- <StartupObject>SelfCSharp.Chap05.StrGlobalCompare</StartupObject> -->
     <!--リスト5.5 5.6 StrEmpty.cs-->
-    <StartupObject>SelfCSharp.Chap05.StrEmpty</StartupObject>
+    <!-- <StartupObject>SelfCSharp.Chap05.StrEmpty</StartupObject> -->
+    <!--リスト5.7 StrIndex.cs-->
+    <!-- <StartupObject>SelfCSharp.Chap05.StrIndex</StartupObject> -->
+    <!--リスト5.8 StrContains.cs-->
+    <!-- <StartupObject>SelfCSharp.Chap05.StrContains</StartupObject> -->
+    <!--リスト5.9 StrAny.cs-->
+    <!-- <StartupObject>SelfCSharp.Chap05.StrAny</StartupObject> -->
+    <!--リスト5.10 StrAll.cs-->
+    <!-- <StartupObject>SelfCSharp.Chap05.StrAll</StartupObject> -->
+    <!--リスト5.11 5.12 StrSubstring.cs-->
+    <!-- <StartupObject>SelfCSharp.Chap05.StrSubstring</StartupObject> -->
+    <!--リスト5.13 StrFor.cs-->
+    <!-- <StartupObject>SelfCSharp.Chap05.StrFor</StartupObject> -->
+    <!--リスト5.14 StrSplit.cs-->
+    <StartupObject>SelfCSharp.Chap05.StrSplit</StartupObject>
 
   </PropertyGroup>
 

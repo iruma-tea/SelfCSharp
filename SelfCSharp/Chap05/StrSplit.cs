@@ -1,0 +1,4 @@
+namespace SelfCSharp.Chap05
+{
+
+}
