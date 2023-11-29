@@ -210,7 +210,9 @@
     <!--リスト5 PSubstr.cs-->
     <!-- <StartupObject>SelfCSharp.Chap05.Practice.PSubstr</StartupObject> -->
     <!--リスト5 PSplit.cs-->
-    <StartupObject>SelfCSharp.Chap05.Practice.PSplit</StartupObject>
+    <!-- <StartupObject>SelfCSharp.Chap05.Practice.PSplit</StartupObject> -->
+    <!--リスト5.16 ReglsMatch.cs-->
+    <StartupObject>SelfCSharp.Chap05.ReglsMatch</StartupObject>
 
   </PropertyGroup>
 
