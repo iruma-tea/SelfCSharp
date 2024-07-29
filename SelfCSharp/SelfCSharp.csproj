@@ -5,7 +5,10 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>SelfCSharp.Chap01.PersonClient</StartupObject>
+    <!-- // Chap01-->
+    <!-- <StartupObject>SelfCSharp.Chap01.PersonClient</StartupObject> -->
+    <!-- // Chap02-->
+    <StartupObject>SelfCSharp.Chap02.Const</StartupObject>
   </PropertyGroup>
 
 </Project>
