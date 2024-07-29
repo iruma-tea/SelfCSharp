@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"dotnet.defaultSolution": "SelfCSharp.sln",
+		"files.encoding": "utf8",
+		"files.eol": "\n",
+		"workbench.iconTheme": "vscode-icons",
+		"workbench.colorTheme": "Monokai",
+		"[csharp]": {
+			"editor.formatOnSave": true,
+			"editor.maxTokenizationLineLength": 2500,
+			"editor.inlineSuggest.suppressSuggestions": false
+		}
+	}
+}
