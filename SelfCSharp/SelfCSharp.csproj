@@ -7,8 +7,19 @@
     <Nullable>enable</Nullable>
     <!-- // Chap01-->
     <!-- <StartupObject>SelfCSharp.Chap01.PersonClient</StartupObject> -->
-    <!-- // Chap02-->
+    <!-- // Chap02
     <StartupObject>SelfCSharp.Chap02.Const</StartupObject>
+    <StartupObject>SelfCSharp.Chap02.StringVariable</StartupObject>
+    <StartupObject>SelfCSharp.Chap02.TransBad</StartupObject>
+    <StartupObject>SelfCSharp.Chap02.CastBad</StartupObject>
+    <StartupObject>SelfCSharp.Chap02.Parse</StartupObject>
+    <StartupObject>SelfCSharp.Chap02.ToString</StartupObject>
+    <StartupObject>SelfCSharp.Chap02.Practice.PCast</StartupObject>
+    <StartupObject>SelfCSharp.Chap02.FieldNew</StartupObject>
+    <StartupObject>SelfCSharp.Chap02.NullableCalc</StartupObject>
+    <StartupObject>SelfCSharp.Chap02.NullAllow</StartupObject>
+    <StartupObject>SelfCSharp.Chap02.NullForgive</StartupObject> -->
+    <StartupObject>SelfCSharp.Chap02.ArrayRange</StartupObject>
   </PropertyGroup>
 
 </Project>
