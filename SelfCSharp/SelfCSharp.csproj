@@ -34,11 +34,19 @@
     <StartupObject>SelfCSharp.Chap03.CalcDivZero</StartupObject>
     <StartupObject>SelfCSharp.Chap03.CalcDecimal</StartupObject>
     <StartupObject>SelfCSharp.Chap03.Substitution</StartupObject>
+    <StartupObject>SelfCSharp.Chap03.CompareString</StartupObject>
     <StartupObject>SelfCSharp.Chap03.CompareStringBuilder</StartupObject>
     <StartupObject>SelfCSharp.Chap03.CompareDouble</StartupObject>
     <StartupObject>SelfCSharp.Chap03.CompareArray</StartupObject>
-    <StartupObject>SelfCSharp.Chap03.Condition</StartupObject>    -->
+    <StartupObject>SelfCSharp.Chap03.Condition</StartupObject>   
     <StartupObject>SelfCSharp.Chap03.Practice.PCondition</StartupObject>
+    <StartupObject>SelfCSharp.Chap03.Shortcut</StartupObject>
+    <StartupObject>SelfCSharp.Chap03.BitShift</StartupObject>
+    <StartupObject>SelfCSharp.Chap03.SizeOf</StartupObject>
+    <StartupObject>SelfCSharp.Chap03.NameOfBasic</StartupObject>
+    <StartupObject>SelfCSharp.Chap03.NameOfNull</StartupObject>
+    <StartupObject>SelfCSharp.Chap03.Practice.Practice2</StartupObject> -->
+    <StartupObject>SelfCSharp.Chap03.Practice.Practice3</StartupObject>
 
   </PropertyGroup>
 
