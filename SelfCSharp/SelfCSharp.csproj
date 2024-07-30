@@ -45,8 +45,19 @@
     <StartupObject>SelfCSharp.Chap03.SizeOf</StartupObject>
     <StartupObject>SelfCSharp.Chap03.NameOfBasic</StartupObject>
     <StartupObject>SelfCSharp.Chap03.NameOfNull</StartupObject>
-    <StartupObject>SelfCSharp.Chap03.Practice.Practice2</StartupObject> -->
-    <StartupObject>SelfCSharp.Chap03.Practice.Practice3</StartupObject>
+    <StartupObject>SelfCSharp.Chap03.Practice.Practice2</StartupObject>
+    <StartupObject>SelfCSharp.Chap03.Practice.Practice3</StartupObject> -->
+    <!-- // Chap04
+    <StartupObject>SelfCSharp.Chap04.IfBasic</StartupObject>
+    <StartupObject>SelfCSharp.Chap04.IfBasic2</StartupObject>
+    <StartupObject>SelfCSharp.Chap04.IfElse</StartupObject>
+    <StartupObject>SelfCSharp.Chap04.IfElse2</StartupObject>
+    <StartupObject>SelfCSharp.Chap04.IfNest</StartupObject>
+    <StartupObject>SelfCSharp.Chap04.IfOmit</StartupObject>
+    <StartupObject>SelfCSharp.Chap04.IfOmit2</StartupObject>
+    <StartupObject>SelfCSharp.Chap04.IfOmit3</StartupObject>
+    <StartupObject>SelfCSharp.Chap04.SwitchPre</StartupObject> -->
+    <StartupObject>SelfCSharp.Chap04.SwitchBasic</StartupObject>
 
   </PropertyGroup>
 
