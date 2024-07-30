@@ -24,8 +24,22 @@
     <StartupObject>SelfCSharp.Chap02.ArrayMulti</StartupObject>
     <StartupObject>SelfCSharp.Chap02.ArrayJag</StartupObject>
     <StartupObject>SelfCSharp.Chap02.ArrayLength</StartupObject>
-    <StartupObject>SelfCSharp.Chap02.Practice.Practice1</StartupObject> -->
-    <StartupObject>SelfCSharp.Chap02.Practice.Practice3</StartupObject>
+    <StartupObject>SelfCSharp.Chap02.Practice.Practice1</StartupObject>
+    <StartupObject>SelfCSharp.Chap02.Practice.Practice3</StartupObject> -->
+    <!-- // Chap03 
+    <StartupObject>SelfCSharp.Chap03.CalcNoNumber</StartupObject>
+    <StartupObject>SelfCSharp.Chap03.ConcatString</StartupObject>
+    <StartupObject>SelfCSharp.Chap03.ConcatBuilder</StartupObject>
+    <StartupObject>SelfCSharp.Chap03.Increment</StartupObject>
+    <StartupObject>SelfCSharp.Chap03.CalcDivZero</StartupObject>
+    <StartupObject>SelfCSharp.Chap03.CalcDecimal</StartupObject>
+    <StartupObject>SelfCSharp.Chap03.Substitution</StartupObject>
+    <StartupObject>SelfCSharp.Chap03.CompareStringBuilder</StartupObject>
+    <StartupObject>SelfCSharp.Chap03.CompareDouble</StartupObject>
+    <StartupObject>SelfCSharp.Chap03.CompareArray</StartupObject>
+    <StartupObject>SelfCSharp.Chap03.Condition</StartupObject>    -->
+    <StartupObject>SelfCSharp.Chap03.Practice.PCondition</StartupObject>
+
   </PropertyGroup>
 
 </Project>
