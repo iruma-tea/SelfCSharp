@@ -18,8 +18,14 @@
     <StartupObject>SelfCSharp.Chap02.FieldNew</StartupObject>
     <StartupObject>SelfCSharp.Chap02.NullableCalc</StartupObject>
     <StartupObject>SelfCSharp.Chap02.NullAllow</StartupObject>
-    <StartupObject>SelfCSharp.Chap02.NullForgive</StartupObject> -->
+    <StartupObject>SelfCSharp.Chap02.NullForgive</StartupObject>
+    <StartupObject>SelfCSharp.Chap02.ArrayBasic</StartupObject>
     <StartupObject>SelfCSharp.Chap02.ArrayRange</StartupObject>
+    <StartupObject>SelfCSharp.Chap02.ArrayMulti</StartupObject>
+    <StartupObject>SelfCSharp.Chap02.ArrayJag</StartupObject>
+    <StartupObject>SelfCSharp.Chap02.ArrayLength</StartupObject>
+    <StartupObject>SelfCSharp.Chap02.Practice.Practice1</StartupObject> -->
+    <StartupObject>SelfCSharp.Chap02.Practice.Practice3</StartupObject>
   </PropertyGroup>
 
 </Project>
