@@ -75,8 +75,22 @@
     <StartupObject>SelfCSharp.Chap04.ForComma2</StartupObject>
     <StartupObject>SelfCSharp.Chap04.ForeachFor</StartupObject>
     <StartupObject>SelfCSharp.Chap04.Foreach</StartupObject>
-    <StartupObject>SelfCSharp.Chap04.CommandArgs</StartupObject> -->
+    <StartupObject>SelfCSharp.Chap04.CommandArgs</StartupObject>
     <StartupObject>SelfCSharp.Chap04.Practice.PFor</StartupObject>
+    <StartupObject>SelfCSharp.Chap04.Break</StartupObject>
+    <StartupObject>SelfCSharp.Chap04.Continue</StartupObject>
+    <StartupObject>SelfCSharp.Chap04.BreakNest</StartupObject>
+    <StartupObject>SelfCSharp.Chap04.Practice.PContinue</StartupObject>
+    <StartupObject>SelfCSharp.Chap04.Goto</StartupObject>
+    <StartupObject>SelfCSharp.Chap04.GotoNest</StartupObject>
+    <StartupObject>SelfCSharp.Chap04.GotoSwitch</StartupObject>
+    <StartupObject>SelfCSharp.Chap04.PreIf</StartupObject>
+    <StartupObject>SelfCSharp.Chap04.PreRegion</StartupObject>
+    <StartupObject>SelfCSharp.Chap04.Practice.Practice1</StartupObject>
+    <StartupObject>SelfCSharp.Chap04.Practice.Practice2</StartupObject>
+    <StartupObject>SelfCSharp.Chap04.Practice.Practice3</StartupObject>
+    <StartupObject>SelfCSharp.Chap04.Practice.Practice4</StartupObject> -->
+    <StartupObject>SelfCSharp.Chap04.Practice.Practice5</StartupObject>
 
   </PropertyGroup>
 
