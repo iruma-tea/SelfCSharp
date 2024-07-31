@@ -96,7 +96,10 @@
     <!-- <StartupObject>SelfCSharp.Chap05.StrInfoLength</StartupObject> -->
     <!-- <StartupObject>SelfCSharp.Chap05.StrCompare</StartupObject> -->
     <!-- <StartupObject>SelfCSharp.Chap05.StrGlobalCompare</StartupObject> -->
-    <StartupObject>SelfCSharp.Chap05.StrEmpty</StartupObject>
+    <!-- <StartupObject>SelfCSharp.Chap05.StrEmpty</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap05.StrIndex</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap05.StrContains</StartupObject> -->
+    <StartupObject>SelfCSharp.Chap05.StrAny</StartupObject>
   </PropertyGroup>
 
 </Project>
