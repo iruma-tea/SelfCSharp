@@ -99,7 +99,11 @@
     <!-- <StartupObject>SelfCSharp.Chap05.StrEmpty</StartupObject> -->
     <!-- <StartupObject>SelfCSharp.Chap05.StrIndex</StartupObject> -->
     <!-- <StartupObject>SelfCSharp.Chap05.StrContains</StartupObject> -->
-    <StartupObject>SelfCSharp.Chap05.StrAny</StartupObject>
+    <!-- <StartupObject>SelfCSharp.Chap05.StrAny</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap05.StrAll</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap05.StrSubString</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap05.StrFor</StartupObject> -->
+    <StartupObject>SelfCSharp.Chap05.StrSplit</StartupObject>
   </PropertyGroup>
 
 </Project>
