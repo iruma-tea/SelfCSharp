@@ -108,7 +108,8 @@
     <!-- <StartupObject>SelfCSharp.Chap05.Practice.PSubstr</StartupObject> -->
     <!-- <StartupObject>SelfCSharp.Chap05.Practice.PSplit</StartupObject> -->
     <!-- <StartupObject>SelfCSharp.Chap05.ReglsMatch</StartupObject> -->
-    <StartupObject>SelfCSharp.Chap05.RegMatch</StartupObject>
+    <!-- <StartupObject>SelfCSharp.Chap05.RegMatch</StartupObject> -->
+    <StartupObject>SelfCSharp.Chap05.RegMatches</StartupObject>
   </PropertyGroup>
 
 </Project>
