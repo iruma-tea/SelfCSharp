@@ -103,7 +103,12 @@
     <!-- <StartupObject>SelfCSharp.Chap05.StrAll</StartupObject> -->
     <!-- <StartupObject>SelfCSharp.Chap05.StrSubString</StartupObject> -->
     <!-- <StartupObject>SelfCSharp.Chap05.StrFor</StartupObject> -->
-    <StartupObject>SelfCSharp.Chap05.StrSplit</StartupObject>
+    <!-- <StartupObject>SelfCSharp.Chap05.StrSplit</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap05.StrFormat</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap05.Practice.PSubstr</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap05.Practice.PSplit</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap05.ReglsMatch</StartupObject> -->
+    <StartupObject>SelfCSharp.Chap05.RegMatch</StartupObject>
   </PropertyGroup>
 
 </Project>
