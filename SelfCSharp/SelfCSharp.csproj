@@ -143,7 +143,14 @@
     <!-- <StartupObject>SelfCSharp.Chap05.TimeSub</StartupObject> -->
     <!-- <StartupObject>SelfCSharp.Chap05.TimeOpe</StartupObject> -->
     <!-- <StartupObject>SelfCSharp.Chap05.Practice.PParse</StartupObject> -->
-    <StartupObject>SelfCSharp.Chap05.Practice.PAdd</StartupObject>
+    <!-- <StartupObject>SelfCSharp.Chap05.Practice.PAdd</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap05.StreamWrite</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap05.StreamWriteAll</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap05.StreamWriteUsing</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap05.StreamRead</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap05.StreamReadLine</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap05.FileProcess</StartupObject> -->
+    <StartupObject>SelfCSharp.Chap05.DirectoryProcess</StartupObject>
   </PropertyGroup>
 
 </Project>
