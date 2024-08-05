@@ -129,7 +129,13 @@
     <!-- <StartupObject>SelfCSharp.Chap05.StrReplace</StartupObject> -->
     <!-- <StartupObject>SelfCSharp.Chap05.RegSplit</StartupObject> -->
     <!-- <StartupObject>SelfCSharp.Chap05.Practice.PMatches</StartupObject> -->
-    <StartupObject>SelfCSharp.Chap05.Practice.PReplace</StartupObject>
+    <!-- <StartupObject>SelfCSharp.Chap05.Practice.PReplace</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap05.TimeNow</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap05.TimeParse</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap05.TimeParseTry</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap05.TimeExact</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap05.TimeGet</StartupObject> -->
+    <StartupObject>SelfCSharp.Chap05.TimeString</StartupObject>
   </PropertyGroup>
 
 </Project>
