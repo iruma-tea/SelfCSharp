@@ -115,7 +115,21 @@
     <!-- <StartupObject>SelfCSharp.Chap05.RegSingle</StartupObject> -->
     <!-- <StartupObject>SelfCSharp.Chap05.RegRight</StartupObject> -->
     <!-- <StartupObject>SelfCSharp.Chap05.RegComment</StartupObject> -->
-    <StartupObject>SelfCSharp.Chap05.RegInline</StartupObject>
+    <!-- <StartupObject>SelfCSharp.Chap05.RegInline</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap05.RegLongest</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap05.RegGroup</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap05.RegGroupNamed</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap05.RegAfter</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap05.RegNoRef</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap05.RegRead</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap05.RegUnicode</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap05.RegReplace</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap05.RegReplaceNamed</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap05.RegEvaluate</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap05.StrReplace</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap05.RegSplit</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap05.Practice.PMatches</StartupObject> -->
+    <StartupObject>SelfCSharp.Chap05.Practice.PReplace</StartupObject>
   </PropertyGroup>
 
 </Project>
