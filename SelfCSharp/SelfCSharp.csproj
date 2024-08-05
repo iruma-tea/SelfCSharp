@@ -135,7 +135,15 @@
     <!-- <StartupObject>SelfCSharp.Chap05.TimeParseTry</StartupObject> -->
     <!-- <StartupObject>SelfCSharp.Chap05.TimeExact</StartupObject> -->
     <!-- <StartupObject>SelfCSharp.Chap05.TimeGet</StartupObject> -->
-    <StartupObject>SelfCSharp.Chap05.TimeString</StartupObject>
+    <!-- <StartupObject>SelfCSharp.Chap05.TimeString</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap05.TimeStringCulture</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap05.TimeJapanese</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap05.TimeAdd</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap05.TimeSpanAdd</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap05.TimeSub</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap05.TimeOpe</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap05.Practice.PParse</StartupObject> -->
+    <StartupObject>SelfCSharp.Chap05.Practice.PAdd</StartupObject>
   </PropertyGroup>
 
 </Project>
