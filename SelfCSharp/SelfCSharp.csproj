@@ -163,7 +163,11 @@
     <!-- <StartupObject>SelfCSharp.Chap05.Practice.Practice1</StartupObject> -->
     <!-- <StartupObject>SelfCSharp.Chap05.Practice.Practice2</StartupObject> -->
     <!-- <StartupObject>SelfCSharp.Chap05.Practice.Practice3</StartupObject> -->
-    <StartupObject>SelfCSharp.Chap05.Practice.Practice4</StartupObject>
+    <!-- <StartupObject>SelfCSharp.Chap05.Practice.Practice4</StartupObject> -->
+    <!-- // Chap05  -->
+    <!-- <StartupObject>SelfCSharp.Chap06.GenericNoUse</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap06.GenericBasic</StartupObject> -->
+    <StartupObject>SelfCSharp.Chap06.CollectionInitialize</StartupObject>
   </PropertyGroup>
 
 </Project>
