@@ -150,7 +150,20 @@
     <!-- <StartupObject>SelfCSharp.Chap05.StreamRead</StartupObject> -->
     <!-- <StartupObject>SelfCSharp.Chap05.StreamReadLine</StartupObject> -->
     <!-- <StartupObject>SelfCSharp.Chap05.FileProcess</StartupObject> -->
-    <StartupObject>SelfCSharp.Chap05.DirectoryProcess</StartupObject>
+    <!-- <StartupObject>SelfCSharp.Chap05.DirectoryProcess</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap05.FileStaticProcess</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap05.DirectoryStaticProcess</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap05.MathExample</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap05.RandomBasic</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap05.Factorial</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap05.ArrayExample</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap05.SpanBasic</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap05.SpanString</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap05.SpanStack</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap05.Practice.Practice1</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap05.Practice.Practice2</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap05.Practice.Practice3</StartupObject> -->
+    <StartupObject>SelfCSharp.Chap05.Practice.Practice4</StartupObject>
   </PropertyGroup>
 
 </Project>
