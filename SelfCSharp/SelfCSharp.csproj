@@ -178,7 +178,15 @@
     <!-- <StartupObject>SelfCSharp.Chap06.Practice.PList</StartupObject> -->
     <!-- <StartupObject>SelfCSharp.Chap06.SetBasic</StartupObject> -->
     <!-- <StartupObject>SelfCSharp.Chap06.SetInclude</StartupObject> -->
-    <StartupObject>SelfCSharp.Chap06.SetUnion</StartupObject>
+    <!-- <StartupObject>SelfCSharp.Chap06.SetUnion</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap06.SetSorted</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap06.DicBase</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap06.MapSorted</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap06.MapSorted2</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap06.ListSort</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap06.ListSort2</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap06.Practice.Practice2</StartupObject> -->
+    <StartupObject>SelfCSharp.Chap06.Practice.Practice3</StartupObject>
   </PropertyGroup>
 
 </Project>
