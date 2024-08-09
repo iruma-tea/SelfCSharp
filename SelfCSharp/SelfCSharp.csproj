@@ -164,7 +164,7 @@
     <!-- <StartupObject>SelfCSharp.Chap05.Practice.Practice2</StartupObject> -->
     <!-- <StartupObject>SelfCSharp.Chap05.Practice.Practice3</StartupObject> -->
     <!-- <StartupObject>SelfCSharp.Chap05.Practice.Practice4</StartupObject> -->
-    <!-- // Chap05  -->
+    <!-- // Chap06  -->
     <!-- <StartupObject>SelfCSharp.Chap06.GenericNoUse</StartupObject> -->
     <!-- <StartupObject>SelfCSharp.Chap06.GenericBasic</StartupObject> -->
     <!-- <StartupObject>SelfCSharp.Chap06.CollectionInitialize</StartupObject> -->
@@ -186,7 +186,16 @@
     <!-- <StartupObject>SelfCSharp.Chap06.ListSort</StartupObject> -->
     <!-- <StartupObject>SelfCSharp.Chap06.ListSort2</StartupObject> -->
     <!-- <StartupObject>SelfCSharp.Chap06.Practice.Practice2</StartupObject> -->
-    <StartupObject>SelfCSharp.Chap06.Practice.Practice3</StartupObject>
+    <!-- <StartupObject>SelfCSharp.Chap06.Practice.Practice3</StartupObject> -->
+    <!-- // Chap07  -->
+    <!-- <StartupObject>SelfCSharp.Chap07.ClassField.FieldBasic</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap07.ClassMethod.MethodBasic</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap07.AccessBasic</StartupObject> -->
+    <StartupObject>SelfCSharp.Chap07.MethodLocal</StartupObject>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Chap07/Practice/" />
+  </ItemGroup>
 
 </Project>
