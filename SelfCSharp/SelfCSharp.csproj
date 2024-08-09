@@ -167,7 +167,18 @@
     <!-- // Chap05  -->
     <!-- <StartupObject>SelfCSharp.Chap06.GenericNoUse</StartupObject> -->
     <!-- <StartupObject>SelfCSharp.Chap06.GenericBasic</StartupObject> -->
-    <StartupObject>SelfCSharp.Chap06.CollectionInitialize</StartupObject>
+    <!-- <StartupObject>SelfCSharp.Chap06.CollectionInitialize</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap06.CollectionFromArray</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap06.CollectionInitializeIndex</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap06.ListForeach</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap06.ListBasic</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap06.ListLinked</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap06.ListStack</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap06.ListQueue</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap06.Practice.PList</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap06.SetBasic</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap06.SetInclude</StartupObject> -->
+    <StartupObject>SelfCSharp.Chap06.SetUnion</StartupObject>
   </PropertyGroup>
 
 </Project>
