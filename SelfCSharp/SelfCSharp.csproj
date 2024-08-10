@@ -194,7 +194,9 @@
     <!-- <StartupObject>SelfCSharp.Chap07.MethodLocal</StartupObject> -->
     <!-- <StartupObject>SelfCSharp.Chap07.ScopeBasic</StartupObject> -->
     <!-- <StartupObject>SelfCSharp.Chap07.MethodLocalShadow</StartupObject> -->
-    <StartupObject>SelfCSharp.Chap07.ScopeBlock3</StartupObject>
+    <!-- <StartupObject>SelfCSharp.Chap07.ScopeBlock3</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap07.ClassConst.ConstBasic</StartupObject> -->
+    <StartupObject>SelfCSharp.Chap07.Constructor.ConstructorBasic</StartupObject>
   </PropertyGroup>
 
 </Project>
