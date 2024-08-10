@@ -196,7 +196,9 @@
     <!-- <StartupObject>SelfCSharp.Chap07.MethodLocalShadow</StartupObject> -->
     <!-- <StartupObject>SelfCSharp.Chap07.ScopeBlock3</StartupObject> -->
     <!-- <StartupObject>SelfCSharp.Chap07.ClassConst.ConstBasic</StartupObject> -->
-    <StartupObject>SelfCSharp.Chap07.Constructor.ConstructorBasic</StartupObject>
+    <!-- <StartupObject>SelfCSharp.Chap07.Constructor.ConstructorBasic</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap07.Anonymous.AnonymousInit</StartupObject> -->
+    <StartupObject>SelfCSharp.Chap07.Finalize.FinalizeBasic</StartupObject>
   </PropertyGroup>
 
 </Project>
