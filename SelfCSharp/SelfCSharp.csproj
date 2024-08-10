@@ -209,7 +209,14 @@
     <!-- <StartupObject>SelfCSharp.Chap07.MethodArgs.ArgsDefault</StartupObject> -->
     <!-- <StartupObject>SelfCSharp.Chap07.MethodArgs.ArgsNamed</StartupObject> -->
     <!-- <StartupObject>SelfCSharp.Chap07.MethodArgs.ArgsParams</StartupObject> -->
-    <StartupObject>SelfCSharp.Chap07.MethodArgs.ArgsParamsBad</StartupObject>
+    <!-- <StartupObject>SelfCSharp.Chap07.MethodArgs.ArgsParamsBad</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap07.MethodArgs.ArgsParamsGood</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap07.Practice.PCalculation</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap07.PassBasic</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap07.PassArray</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap07.PassRefBasic</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap07.PassRefArray</StartupObject> -->
+    <StartupObject>SelfCSharp.Chap07.PassRefIn</StartupObject>
   </PropertyGroup>
 
 </Project>
