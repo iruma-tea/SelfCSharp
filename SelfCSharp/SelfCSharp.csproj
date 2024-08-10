@@ -191,11 +191,10 @@
     <!-- <StartupObject>SelfCSharp.Chap07.ClassField.FieldBasic</StartupObject> -->
     <!-- <StartupObject>SelfCSharp.Chap07.ClassMethod.MethodBasic</StartupObject> -->
     <!-- <StartupObject>SelfCSharp.Chap07.AccessBasic</StartupObject> -->
-    <StartupObject>SelfCSharp.Chap07.MethodLocal</StartupObject>
+    <!-- <StartupObject>SelfCSharp.Chap07.MethodLocal</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap07.ScopeBasic</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap07.MethodLocalShadow</StartupObject> -->
+    <StartupObject>SelfCSharp.Chap07.ScopeBlock3</StartupObject>
   </PropertyGroup>
-
-  <ItemGroup>
-    <Folder Include="Chap07/Practice/" />
-  </ItemGroup>
 
 </Project>
