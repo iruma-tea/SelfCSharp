@@ -216,7 +216,17 @@
     <!-- <StartupObject>SelfCSharp.Chap07.PassArray</StartupObject> -->
     <!-- <StartupObject>SelfCSharp.Chap07.PassRefBasic</StartupObject> -->
     <!-- <StartupObject>SelfCSharp.Chap07.PassRefArray</StartupObject> -->
-    <StartupObject>SelfCSharp.Chap07.PassRefIn</StartupObject>
+    <!-- <StartupObject>SelfCSharp.Chap07.PassRefIn</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap07.PassRefReturn</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap07.PassOut</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap07.RefLocal</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap07.RefAsign</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap07.RefCond</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap07.RefCond2</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap07.RefFor</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap07.RefForeach</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap07.TupleBase</StartupObject> -->
+    <StartupObject>SelfCSharp.Chap07.TupleSwap</StartupObject>
   </PropertyGroup>
 
 </Project>

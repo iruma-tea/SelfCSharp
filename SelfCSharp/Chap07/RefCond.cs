@@ -1,0 +1,16 @@
+using System;
+
+namespace SelfCSharp.Chap07;
+
+public class RefCond
+{
+    static void Main(string[] args)
+    {
+        var i = 10;
+        var j = 20;
+
+        ref var k = ref i > j ? ref i : ref j;
+        k = 99;
+        Console.WriteLine($"i={i}, j={j}, k={k}");
+    }
+}
