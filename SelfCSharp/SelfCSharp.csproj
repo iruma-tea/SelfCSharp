@@ -234,7 +234,15 @@
     <!-- <StartupObject>SelfCSharp.Chap07.IteratorPrime</StartupObject> -->
     <!-- <StartupObject>SelfCSharp.Chap07.IteratorPrime2</StartupObject> -->
     <!-- <StartupObject>SelfCSharp.Chap07.Practice.Practice3</StartupObject> -->
-    <StartupObject>SelfCSharp.Chap07.Practice.Practice4</StartupObject>
+    <!-- <StartupObject>SelfCSharp.Chap07.Practice.Practice4</StartupObject> -->
+    <!-- // Chap08  -->
+    <!-- <StartupObject>SelfCSharp.Chap08.PublicField.ClassField</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap08.Accessor.PropAccess</StartupObject> -->
+    <StartupObject>SelfCSharp.Chap08.Prop.PropBasic</StartupObject>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Chap08/Practice/" />
+  </ItemGroup>
 
 </Project>
