@@ -244,7 +244,17 @@
     <!-- <StartupObject>SelfCSharp.Chap08.IndexerBasic</StartupObject> -->
     <!-- <StartupObject>SelfCSharp.Chap08.IndexerMulti</StartupObject> -->
     <!-- <StartupObject>SelfCSharp.Chap08.IndexerString</StartupObject> -->
-    <StartupObject>SelfCSharp.Chap08.IndexerCircle</StartupObject>
+    <!-- <StartupObject>SelfCSharp.Chap08.IndexerCircle</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap08.Prop.InheritBasic</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap08.Prop.InheritBasicCall</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap08.MethodOverride.OverrideBasic</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap08.ConstNoArgs</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap08.Construct.ConstArgs</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap08.Finalize.FinalizeNoArgs</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap08.OverrideNg.MethodNoOverride</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap08.Cast.CastUp</StartupObject> -->
+   <StartupObject>SelfCSharp.Chap08.CastType.TypeDifference</StartupObject>
+   
   </PropertyGroup>
 
   <ItemGroup>
