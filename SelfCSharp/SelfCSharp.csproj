@@ -253,7 +253,8 @@
    <!-- <StartupObject>SelfCSharp.Chap08.Finalize.FinalizeNoArgs</StartupObject> -->
    <!-- <StartupObject>SelfCSharp.Chap08.OverrideNg.MethodNoOverride</StartupObject> -->
    <!-- <StartupObject>SelfCSharp.Chap08.Cast.CastUp</StartupObject> -->
-   <StartupObject>SelfCSharp.Chap08.CastType.TypeDifference</StartupObject>
+   <!-- <StartupObject>SelfCSharp.Chap08.CastType.TypeDifference</StartupObject> -->
+   <StartupObject>SelfCSharp.Chap08.ObjType.TypeGetBasic</StartupObject>
    
   </PropertyGroup>
 
