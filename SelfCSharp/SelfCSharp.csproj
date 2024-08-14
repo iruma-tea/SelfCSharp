@@ -273,6 +273,7 @@
    <!-- <StartupObject>SelfCSharp.Chap08.Practice.Practice3</StartupObject> -->
    <!-- <StartupObject>SelfCSharp.Chap08.Practice.Practice4</StartupObject> -->
    <StartupObject>SelfCSharp.Chap08.Practice.Practice5</StartupObject>
+   <!-- // Chap09  -->
    
    
   </PropertyGroup>
