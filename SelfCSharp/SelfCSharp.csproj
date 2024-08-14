@@ -238,7 +238,13 @@
     <!-- // Chap08  -->
     <!-- <StartupObject>SelfCSharp.Chap08.PublicField.ClassField</StartupObject> -->
     <!-- <StartupObject>SelfCSharp.Chap08.Accessor.PropAccess</StartupObject> -->
-    <StartupObject>SelfCSharp.Chap08.Prop.PropBasic</StartupObject>
+    <!-- <StartupObject>SelfCSharp.Chap08.Prop.PropBasic</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap08.Prop.PropAuto</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap08.PropInit</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap08.IndexerBasic</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap08.IndexerMulti</StartupObject> -->
+    <!-- <StartupObject>SelfCSharp.Chap08.IndexerString</StartupObject> -->
+    <StartupObject>SelfCSharp.Chap08.IndexerCircle</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
