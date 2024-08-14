@@ -254,7 +254,17 @@
    <!-- <StartupObject>SelfCSharp.Chap08.OverrideNg.MethodNoOverride</StartupObject> -->
    <!-- <StartupObject>SelfCSharp.Chap08.Cast.CastUp</StartupObject> -->
    <!-- <StartupObject>SelfCSharp.Chap08.CastType.TypeDifference</StartupObject> -->
-   <StartupObject>SelfCSharp.Chap08.ObjType.TypeGetBasic</StartupObject>
+   <!-- <StartupObject>SelfCSharp.Chap08.ObjType.TypeGetBasic</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap08.PatternConst</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap08.PatternVar</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap08.PatternPos</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap08.PatternPosMulti</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap08.Prop.PatternProp</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap08.PatternRelation</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap08.PatternLogic</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap08.PatternLogic2</StartupObject> -->
+   <StartupObject>SelfCSharp.Chap08.ExtensionUse.ExtensionClient</StartupObject>
+   
    
   </PropertyGroup>
 
