@@ -263,13 +263,18 @@
    <!-- <StartupObject>SelfCSharp.Chap08.PatternRelation</StartupObject> -->
    <!-- <StartupObject>SelfCSharp.Chap08.PatternLogic</StartupObject> -->
    <!-- <StartupObject>SelfCSharp.Chap08.PatternLogic2</StartupObject> -->
-   <StartupObject>SelfCSharp.Chap08.ExtensionUse.ExtensionClient</StartupObject>
+   <!-- <StartupObject>SelfCSharp.Chap08.ExtensionUse.ExtensionClient</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap08.Polymo.PolymorphismBasic</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap08.Abstract.AbstractBasic</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap08.Implement.InterfaceBasic</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap08.Implement.InterfaceOverlap</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap08.InterfaceDefault</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap08.Practice.Practice2</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap08.Practice.Practice3</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap08.Practice.Practice4</StartupObject> -->
+   <StartupObject>SelfCSharp.Chap08.Practice.Practice5</StartupObject>
    
    
   </PropertyGroup>
-
-  <ItemGroup>
-    <Folder Include="Chap08/Practice/" />
-  </ItemGroup>
 
 </Project>
