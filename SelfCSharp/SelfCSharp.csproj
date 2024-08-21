@@ -293,7 +293,12 @@
    <!-- <StartupObject>SelfCSharp.Chap09.EnumString</StartupObject> -->
    <!-- <StartupObject>SelfCSharp.Chap09.EnumParse</StartupObject> -->
    <!-- <StartupObject>SelfCSharp.Chap09.EnumValues</StartupObject> -->
-   <StartupObject>SelfCSharp.Chap09.EnumBit</StartupObject>
+   <!-- <StartupObject>SelfCSharp.Chap09.EnumBit</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap09.StructBasic</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap09.Struct.StructConstructor</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap09.Struct.Readonly.StructReadOnly</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap09.ReadonlyNotation</StartupObject> -->
+   <StartupObject>SelfCSharp.Chap09.Practice.PEnum</StartupObject>
    
    
   </PropertyGroup>
