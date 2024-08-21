@@ -291,7 +291,9 @@
    <!-- <StartupObject>SelfCSharp.Chap09.Const.SeasonConst</StartupObject> -->
    <!-- <StartupObject>SelfCSharp.Chap09.SeasonEnumClient</StartupObject> -->
    <!-- <StartupObject>SelfCSharp.Chap09.EnumString</StartupObject> -->
-   <StartupObject>SelfCSharp.Chap09.EnumParse</StartupObject>
+   <!-- <StartupObject>SelfCSharp.Chap09.EnumParse</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap09.EnumValues</StartupObject> -->
+   <StartupObject>SelfCSharp.Chap09.EnumBit</StartupObject>
    
    
   </PropertyGroup>
