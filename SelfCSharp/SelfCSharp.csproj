@@ -275,7 +275,19 @@
    <!-- <StartupObject>SelfCSharp.Chap08.Practice.Practice5</StartupObject> -->
    <!-- // Chap09  -->
    <!-- <StartupObject>SelfCSharp.Chap09.Util.NamespaceGlobal</StartupObject> -->
-   <StartupObject>SelfCSharp.Chap09.Priority.NamespacePriority</StartupObject>
+   <!-- <StartupObject>SelfCSharp.Chap09.Priority.NamespacePriority</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap09.Ns.UsingStatic</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap09.TryCatch</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap09.TryBad</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap09.TryFinally</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap09.TryCatchOrder</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap09.TryWhen</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap09.TryMultiOld</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap09.TryMulti</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap09.ThrowExp</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap09.MyAppExceptionClient</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap09.Overflow</StartupObject> -->
+   <StartupObject>SelfCSharp.Chap09.OverflowDouble</StartupObject>
    
    
   </PropertyGroup>
