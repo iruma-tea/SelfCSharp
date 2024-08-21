@@ -287,7 +287,11 @@
    <!-- <StartupObject>SelfCSharp.Chap09.ThrowExp</StartupObject> -->
    <!-- <StartupObject>SelfCSharp.Chap09.MyAppExceptionClient</StartupObject> -->
    <!-- <StartupObject>SelfCSharp.Chap09.Overflow</StartupObject> -->
-   <StartupObject>SelfCSharp.Chap09.OverflowDouble</StartupObject>
+   <!-- <StartupObject>SelfCSharp.Chap09.OverflowDouble</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap09.Const.SeasonConst</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap09.SeasonEnumClient</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap09.EnumString</StartupObject> -->
+   <StartupObject>SelfCSharp.Chap09.EnumParse</StartupObject>
    
    
   </PropertyGroup>
