@@ -298,9 +298,16 @@
    <!-- <StartupObject>SelfCSharp.Chap09.Struct.StructConstructor</StartupObject> -->
    <!-- <StartupObject>SelfCSharp.Chap09.Struct.Readonly.StructReadOnly</StartupObject> -->
    <!-- <StartupObject>SelfCSharp.Chap09.ReadonlyNotation</StartupObject> -->
-   <StartupObject>SelfCSharp.Chap09.Practice.PEnum</StartupObject>
-   
-   
+   <!-- <StartupObject>SelfCSharp.Chap09.Practice.PEnum</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap09.Record.RecordBasic</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap09.RecordWith.RecordWith</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap09.RecordInherit.RecordInherit</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap09.RecordInherit.RecordInheritWith</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap09.Nested.NestedBasic</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap09.NestIncluded.NestedAccess</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap09.MyPartialClient</StartupObject> -->
+   <StartupObject>SelfCSharp.Chap09.MyPartialMethod</StartupObject>
+      
   </PropertyGroup>
 
 </Project>
