@@ -309,7 +309,10 @@
    <!-- <StartupObject>SelfCSharp.Chap09.MyPartialMethod</StartupObject> -->
    <!-- <StartupObject>SelfCSharp.Chap09.MyNewPartial</StartupObject> -->
    <!-- <StartupObject>SelfCSharp.Chap09.GenericsConstraint</StartupObject> -->
-   <StartupObject>SelfCSharp.Chap09.ObjectBasic.ObjString</StartupObject>
+   <!-- <StartupObject>SelfCSharp.Chap09.ObjectBasic.ObjString</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap09.ObjectEquals.ObjEquals</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap09.ObjectEquals2.ObjEqualsSafe</StartupObject> -->
+   <StartupObject>SelfCSharp.Chap09.ObjDeconstruct</StartupObject>
       
   </PropertyGroup>
 
