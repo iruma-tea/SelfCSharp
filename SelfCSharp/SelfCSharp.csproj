@@ -312,7 +312,11 @@
    <!-- <StartupObject>SelfCSharp.Chap09.ObjectBasic.ObjString</StartupObject> -->
    <!-- <StartupObject>SelfCSharp.Chap09.ObjectEquals.ObjEquals</StartupObject> -->
    <!-- <StartupObject>SelfCSharp.Chap09.ObjectEquals2.ObjEqualsSafe</StartupObject> -->
-   <StartupObject>SelfCSharp.Chap09.ObjDeconstruct</StartupObject>
+   <!-- <StartupObject>SelfCSharp.Chap09.ObjDeconstruct</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap09.ObjBoxing</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap09.Operator.OpeOverload</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap09.Operator.OpePlus</StartupObject> -->
+   <StartupObject>SelfCSharp.Chap09.Operator2.OpeIncrement</StartupObject>
       
   </PropertyGroup>
 
