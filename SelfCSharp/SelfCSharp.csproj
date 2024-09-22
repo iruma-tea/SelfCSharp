@@ -316,7 +316,12 @@
    <!-- <StartupObject>SelfCSharp.Chap09.ObjBoxing</StartupObject> -->
    <!-- <StartupObject>SelfCSharp.Chap09.Operator.OpeOverload</StartupObject> -->
    <!-- <StartupObject>SelfCSharp.Chap09.Operator.OpePlus</StartupObject> -->
-   <StartupObject>SelfCSharp.Chap09.Operator2.OpeIncrement</StartupObject>
+   <!-- <StartupObject>SelfCSharp.Chap09.Operator2.OpeIncrement</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap09.Operator3.OpeBool</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap09.Operator4.OpeCast</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap09.Operator5.OpeCast2</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap09.Practice.Practice3</StartupObject> -->
+   <StartupObject>SelfCSharp.Chap09.Practice.Practice4</StartupObject>
       
   </PropertyGroup>
 
