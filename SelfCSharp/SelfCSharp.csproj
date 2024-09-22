@@ -321,7 +321,9 @@
    <!-- <StartupObject>SelfCSharp.Chap09.Operator4.OpeCast</StartupObject> -->
    <!-- <StartupObject>SelfCSharp.Chap09.Operator5.OpeCast2</StartupObject> -->
    <!-- <StartupObject>SelfCSharp.Chap09.Practice.Practice3</StartupObject> -->
-   <StartupObject>SelfCSharp.Chap09.Practice.Practice4</StartupObject>
+   <!-- <StartupObject>SelfCSharp.Chap09.Practice.Practice4</StartupObject> -->
+   <!-- // Chap10  -->
+   <StartupObject>SelfCSharp.Chap10.DelegateBasic</StartupObject>
       
   </PropertyGroup>
 
