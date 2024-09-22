@@ -6,11 +6,11 @@ delegate void OutPutProcess(string str);
 
 public class DelegateUse
 {
-    void ArrayWalk(string[] data, OutPutProcess outputt)
+    void ArrayWalk(string[] data, OutPutProcess output)
     {
         foreach (var value in data)
         {
-            outputt(value);
+            output(value);
         }
     }
 

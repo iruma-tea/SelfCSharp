@@ -325,7 +325,11 @@
    <!-- // Chap10  -->
    <!-- <StartupObject>SelfCSharp.Chap10.DelegateBasic</StartupObject> -->
    <!-- <StartupObject>SelfCSharp.Chap10.DelegateNoUse</StartupObject> -->
-   <StartupObject>SelfCSharp.Chap10.DelegateUse</StartupObject>
+   <!-- <StartupObject>SelfCSharp.Chap10.DelegateUse</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap10.DelegateUseCounter</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap10.Delegate2.DelegateMulti</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap10.Delegate3.DelegateMultiResult</StartupObject> -->
+   <StartupObject>SelfCSharp.Chap10.DelegateAnonymous</StartupObject>
       
   </PropertyGroup>
 
