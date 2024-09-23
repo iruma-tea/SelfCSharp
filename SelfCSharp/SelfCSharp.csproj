@@ -329,7 +329,16 @@
    <!-- <StartupObject>SelfCSharp.Chap10.DelegateUseCounter</StartupObject> -->
    <!-- <StartupObject>SelfCSharp.Chap10.Delegate2.DelegateMulti</StartupObject> -->
    <!-- <StartupObject>SelfCSharp.Chap10.Delegate3.DelegateMultiResult</StartupObject> -->
-   <StartupObject>SelfCSharp.Chap10.DelegateAnonymous</StartupObject>
+   <!-- <StartupObject>SelfCSharp.Chap10.DelegateAnonymous</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap10.DelegateLambda</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap10.LambdaAccess</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap10.LambdaCapture</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap10.LambdaMember</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap10.ListForeach</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap10.ListConvert</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap10.ListFind</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap10.ListFindAll</StartupObject> -->
+   <StartupObject>SelfCSharp.Chap10.ListFindIndex</StartupObject>
       
   </PropertyGroup>
 
