@@ -338,7 +338,9 @@
    <!-- <StartupObject>SelfCSharp.Chap10.ListConvert</StartupObject> -->
    <!-- <StartupObject>SelfCSharp.Chap10.ListFind</StartupObject> -->
    <!-- <StartupObject>SelfCSharp.Chap10.ListFindAll</StartupObject> -->
-   <StartupObject>SelfCSharp.Chap10.ListFindIndex</StartupObject>
+   <!-- <StartupObject>SelfCSharp.Chap10.ListFindIndex</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap10.ListExists</StartupObject> -->
+   <StartupObject>SelfCSharp.Chap10.ListRemove</StartupObject>
       
   </PropertyGroup>
 
