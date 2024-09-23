@@ -340,7 +340,8 @@
    <!-- <StartupObject>SelfCSharp.Chap10.ListFindAll</StartupObject> -->
    <!-- <StartupObject>SelfCSharp.Chap10.ListFindIndex</StartupObject> -->
    <!-- <StartupObject>SelfCSharp.Chap10.ListExists</StartupObject> -->
-   <StartupObject>SelfCSharp.Chap10.ListRemove</StartupObject>
+   <!-- <StartupObject>SelfCSharp.Chap10.ListRemove</StartupObject> -->
+   <StartupObject>SelfCSharp.Chap10.LinqQuery</StartupObject>
       
   </PropertyGroup>
 
