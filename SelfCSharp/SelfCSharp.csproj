@@ -360,7 +360,12 @@
    <!-- <StartupObject>SelfCSharp.Chap10.LinqInto2</StartupObject> -->
    <!-- <StartupObject>SelfCSharp.Chap10.LinqJoin</StartupObject> -->
    <StartupObject>SelfCSharp.Chap10.Practice.Practice3</StartupObject>
+   <!-- // Chap11  -->
          
   </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Chap11/" />
+  </ItemGroup>
 
 </Project>
