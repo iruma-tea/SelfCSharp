@@ -345,8 +345,18 @@
    <!-- <StartupObject>SelfCSharp.Chap10.LinqQueryDelay</StartupObject> -->
    <!-- <StartupObject>SelfCSharp.Chap10.LinqLike</StartupObject> -->
    <!-- <StartupObject>SelfCSharp.Chap10.LinqStartsWith</StartupObject> -->
-   <StartupObject>SelfCSharp.Chap10.LinqIn</StartupObject>
-      
+   <!-- <StartupObject>SelfCSharp.Chap10.LinqIn</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap10.LinqBetween</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap10.LinqSingle</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap10.LinqOrder</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap10.LinqSelect</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap10.LinqDistinct</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap10.LinqSkip</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap10.LinqFirst</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap10.LinqGroup</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap10.LinqGroup2</StartupObject> -->
+   <StartupObject>SelfCSharp.Chap10.LinqGroupMulti</StartupObject>
+         
   </PropertyGroup>
 
 </Project>
