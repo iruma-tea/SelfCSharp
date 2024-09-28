@@ -359,13 +359,13 @@
    <!-- <StartupObject>SelfCSharp.Chap10.LinqInto</StartupObject> -->
    <!-- <StartupObject>SelfCSharp.Chap10.LinqInto2</StartupObject> -->
    <!-- <StartupObject>SelfCSharp.Chap10.LinqJoin</StartupObject> -->
-   <StartupObject>SelfCSharp.Chap10.Practice.Practice3</StartupObject>
+   <!-- <StartupObject>SelfCSharp.Chap10.Practice.Practice3</StartupObject> -->
    <!-- // Chap11  -->
+   <!-- <StartupObject>SelfCSharp.Chap11.ThreadClassic</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap11.ThreadBasic</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap11.LockBasicBad</StartupObject> -->
+   <StartupObject>SelfCSharp.Chap11.LockBasic</StartupObject>
          
   </PropertyGroup>
-
-  <ItemGroup>
-    <Folder Include="Chap11/" />
-  </ItemGroup>
 
 </Project>
