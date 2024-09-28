@@ -341,7 +341,11 @@
    <!-- <StartupObject>SelfCSharp.Chap10.ListFindIndex</StartupObject> -->
    <!-- <StartupObject>SelfCSharp.Chap10.ListExists</StartupObject> -->
    <!-- <StartupObject>SelfCSharp.Chap10.ListRemove</StartupObject> -->
-   <StartupObject>SelfCSharp.Chap10.LinqQuery</StartupObject>
+   <!-- <StartupObject>SelfCSharp.Chap10.LinqQuery</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap10.LinqQueryDelay</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap10.LinqLike</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap10.LinqStartsWith</StartupObject> -->
+   <StartupObject>SelfCSharp.Chap10.LinqIn</StartupObject>
       
   </PropertyGroup>
 
