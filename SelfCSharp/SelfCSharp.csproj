@@ -364,7 +364,10 @@
    <!-- <StartupObject>SelfCSharp.Chap11.ThreadClassic</StartupObject> -->
    <!-- <StartupObject>SelfCSharp.Chap11.ThreadBasic</StartupObject> -->
    <!-- <StartupObject>SelfCSharp.Chap11.LockBasicBad</StartupObject> -->
-   <StartupObject>SelfCSharp.Chap11.LockBasic</StartupObject>
+   <!-- <StartupObject>SelfCSharp.Chap11.LockBasic</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap11.AsyncBasic</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap11.AsyncReturn</StartupObject> -->
+   <StartupObject>SelfCSharp.Chap11.AsyncHttp</StartupObject>
          
   </PropertyGroup>
 
