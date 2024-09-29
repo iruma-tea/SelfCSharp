@@ -367,7 +367,12 @@
    <!-- <StartupObject>SelfCSharp.Chap11.LockBasic</StartupObject> -->
    <!-- <StartupObject>SelfCSharp.Chap11.AsyncBasic</StartupObject> -->
    <!-- <StartupObject>SelfCSharp.Chap11.AsyncReturn</StartupObject> -->
-   <StartupObject>SelfCSharp.Chap11.AsyncHttp</StartupObject>
+   <!-- <StartupObject>SelfCSharp.Chap11.AsyncHttp</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap11.AsyncStream</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap11.AttrBasic</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap11.AttrConditional</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap11.AttrCaller</StartupObject> -->
+   <StartupObject>SelfCSharp.Chap11.AttrUse</StartupObject>
          
   </PropertyGroup>
 
