@@ -372,7 +372,11 @@
    <!-- <StartupObject>SelfCSharp.Chap11.AttrBasic</StartupObject> -->
    <!-- <StartupObject>SelfCSharp.Chap11.AttrConditional</StartupObject> -->
    <!-- <StartupObject>SelfCSharp.Chap11.AttrCaller</StartupObject> -->
-   <StartupObject>SelfCSharp.Chap11.AttrUse</StartupObject>
+   <!-- <StartupObject>SelfCSharp.Chap11.AttrUse</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap11.ReflectBasic</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap11.ReflectMethods</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap11.ReflectInvoke</StartupObject> -->
+   <StartupObject>SelfCSharp.Chap11.DynamicBasic</StartupObject>
          
   </PropertyGroup>
 
