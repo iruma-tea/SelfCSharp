@@ -377,12 +377,17 @@
    <!-- <StartupObject>SelfCSharp.Chap11.ReflectMethods</StartupObject> -->
    <!-- <StartupObject>SelfCSharp.Chap11.ReflectInvoke</StartupObject> -->
    <!-- <StartupObject>SelfCSharp.Chap11.DynamicBasic</StartupObject> -->
-   <StartupObject>SelfCSharp.Chap11.PythonCall</StartupObject>
+   <!-- <StartupObject>SelfCSharp.Chap11.PythonCall</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap11.DynamicParse</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap11.DynamicCreate</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap11.DynamicProcess.DynamicMethod</StartupObject> -->
+   <StartupObject>SelfCSharp.Chap11.ExpandoBasic</StartupObject>
          
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="IronPython" Version="3.4.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
   </ItemGroup>
 
 </Project>
