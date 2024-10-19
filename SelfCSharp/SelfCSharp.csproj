@@ -376,8 +376,13 @@
    <!-- <StartupObject>SelfCSharp.Chap11.ReflectBasic</StartupObject> -->
    <!-- <StartupObject>SelfCSharp.Chap11.ReflectMethods</StartupObject> -->
    <!-- <StartupObject>SelfCSharp.Chap11.ReflectInvoke</StartupObject> -->
-   <StartupObject>SelfCSharp.Chap11.DynamicBasic</StartupObject>
+   <!-- <StartupObject>SelfCSharp.Chap11.DynamicBasic</StartupObject> -->
+   <StartupObject>SelfCSharp.Chap11.PythonCall</StartupObject>
          
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="IronPython" Version="3.4.1" />
+  </ItemGroup>
 
 </Project>
