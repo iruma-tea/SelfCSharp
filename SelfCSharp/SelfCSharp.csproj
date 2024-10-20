@@ -381,7 +381,11 @@
    <!-- <StartupObject>SelfCSharp.Chap11.DynamicParse</StartupObject> -->
    <!-- <StartupObject>SelfCSharp.Chap11.DynamicCreate</StartupObject> -->
    <!-- <StartupObject>SelfCSharp.Chap11.DynamicProcess.DynamicMethod</StartupObject> -->
-   <StartupObject>SelfCSharp.Chap11.ExpandoBasic</StartupObject>
+   <!-- <StartupObject>SelfCSharp.Chap11.ExpandoBasic</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap11.EventBasic</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap11.EventUse</StartupObject> -->
+   <!-- <StartupObject>SelfCSharp.Chap11.Practice.Practice2</StartupObject> -->
+   <StartupObject>SelfCSharp.Chap11.Practice.Practice4</StartupObject>
          
   </PropertyGroup>
 
